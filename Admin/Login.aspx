@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="text-center">Administrator Login</h1>
+        <h1 class="text-center">Administrator Login Sample</h1>
         <div class="col-lg-offset-3 col-lg-6">
             <div class="well clearfix">
                 <form runat="server" class="form-horizontal">
